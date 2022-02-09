@@ -4,8 +4,8 @@ Projeto criado com o intuito de demostrar/aprimorar os meus conhecimentos em Rea
 
 ## Descrição do Pouru
 
-O App consiste em um menu com diversos produtos comuns em um restaurante, em cada um desses produtos é possível seleciona-los para adicionar ao carrinho. Ao fazer isso ambém será possível visualizar mais iamgens sobre o produto selecionado e também as opõçes disponiveis para ele. 
-No menu lateral esquerdo é possível selecionar a categorias dos produtos que deseja visualizar, ou finalizar o processo de compras, que irá redirecionar o usuario parar uma tela para que seja feito a verificação dos produtos e apos isso ira finalizar a "venda".
+O App consiste em um menu com diversos produtos comuns em um restaurante, em cada um desses produtos é possível seleciona-los para adicionar ao carrinho. Ao fazer isso também será possível visualizar mais imagens sobre o produto selecionado e também as opções disponíveis para ele. 
+No menu lateral esquerdo é possível selecionar a categorias dos produtos que deseja visualizar, ou finalizar o processo de compras, que irá redirecionar o usuário parar uma tela para ser feito a verificação dos produtos e apos isso ira finalizar a "venda"
 
 ## Iniciando execução
 
@@ -17,7 +17,7 @@ npx react-native run-android
 
 ### Ferramentas utilizadas
 
-Como já foi dito no inicio do arquivo, esse projeto foi feito visando utilizar somente o react-native, sendo assim, a unica ferramenta utilizada foi o 
+Como já foi dito no início do arquivo, esse projeto foi feito visando utilizar somente o react-native, sendo assim, a única ferramenta utilizada foi? 
 
 * [React Native](https://reactnative.dev/)
 
