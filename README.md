@@ -1,6 +1,6 @@
 # Pouru - Restaurante
 
-Projeto criado com o intuito de demostrar/aprimorar os meus conhecimentos em React-Native
+Projeto criado com o intuito de demonstrar/aprimorar os meus conhecimentos em React-Native
 
 ## Descrição do Pouru
 
